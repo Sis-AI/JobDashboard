@@ -41,8 +41,8 @@ The dashboard (built with **Streamlit**) allows you to:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your_repo_url>
-cd <repo_folder>
+git clone https://github.com/Sis-AI/JobDashboard.git
+cd JobDashboard
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
